@@ -1,4 +1,4 @@
-!(https://avatars.githubusercontent.com/u/72541081?v=4)
+![sv photo](https://avatars.githubusercontent.com/u/72541081?v=4)
 # Anton Protsyuk
 *Junior Frontend Developer*
 
