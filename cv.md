@@ -8,5 +8,13 @@
 * Telegram: @antonprotsyuk
 
 ## 👋 About me
-Hi everyone! My name is Anton and I love programming ❤️
+Hi everyone! My name is Anton and I love programming ❤️  
 I always try to learn something new and useful that might be useful at work.
+
+## 💪 Skills
+1. HTML
+1. CSS / SCSS / Sass
+1. JavaScript / jQuery (Basic)
+1. PHP (Basic)
+1. WordPress + Carbon Fields / ACF / Plugins
+1. GIT
