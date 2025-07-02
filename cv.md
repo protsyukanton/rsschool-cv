@@ -12,7 +12,7 @@ Hi everyone! My name is Anton and I love programming ❤️
 I always try to learn something new and useful that might be useful at work.
 
 ## 💪 Skills
-1. HTML + БЭМ методология
+1. HTML + BEM methodology
 1. CSS / SCSS / Sass
 1. JavaScript / jQuery (Basic)
 1. PHP (Basic)
