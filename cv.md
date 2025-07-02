@@ -19,3 +19,10 @@ I always try to learn something new and useful that might be useful at work.
 1. WordPress + Carbon Fields / ACF / Plugins
 1. GIT
 1. Gulp
+
+## 👨🏻‍💻 Code example
+```javascript
+function multiply(a, b){
+ return a * b
+}
+```
