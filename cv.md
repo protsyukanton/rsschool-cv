@@ -31,15 +31,15 @@ function multiply(a, b){
 ## 💼 Work experience
 
 ### OFFICE. Media Crew
-**Position:** HTML layout designer  
-**Work period:** May 2021 - June 2023  
-**Tasks:** layout of websites - one-page, multi-page, online stores using: HTML, CSS, jQuery.
+*Position:* HTML layout designer  
+*Work period:* May 2021 - June 2023  
+*Tasks:* layout of websites - one-page, multi-page, online stores using: HTML, CSS, jQuery.
 Added / deleted / edited content on websites.
 
 ### GRIT Digital Marketing
-**Position:** Web Developer  
-**Work Period:** July 2023 - present  
-**Tasks:**
+*Position:* Web Developer  
+*Work Period:* July 2023 - present  
+*Tasks:*
 1. Page layout (HTML, CSS, JavaScript, jQuery, PHP)
 1. Implementing ready-made layout on CMS systems (WordPress, ModX)
 1. Editing existing sites (WordPress, ModX, Joomla, Bitrix, Tilda)
