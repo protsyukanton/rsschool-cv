@@ -48,3 +48,8 @@ Added / deleted / edited content on websites.
 1. Connecting metrics, implementing ready-made solutions to the site, setting up and installing goals
 1. Programming various functionality - forms, calculators, sliders, etc.
 1. Finding performers and monitoring task completion.
+
+## 👨🏻‍🎓 Education
+### Yaroslavl Urban Planning College
+*Specialty:* computer networks
+*Period:* 2014-2018
