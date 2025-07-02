@@ -51,5 +51,8 @@ Added / deleted / edited content on websites.
 
 ## 👨🏻‍🎓 Education
 ### Yaroslavl Urban Planning College
-*Specialty:* computer networks
+*Specialty:* computer networks  
 *Period:* 2014-2018
+
+## 🇬🇧 English
+А1 (Beginner)
